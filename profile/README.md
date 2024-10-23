@@ -1,5 +1,4 @@
 <p float="left">
- <img src="https://i.imgur.com/VZqEnLe.png" width="350" align="left">
   <p float="left">
     <samp>
       <br>
